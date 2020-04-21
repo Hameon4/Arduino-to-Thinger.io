@@ -1,11 +1,11 @@
 #include <ThingerWiFiNINA.h>
 #define _DISABLE_TLS_
-#define USERNAME "hamalsheraifi4"
-#define DEVICE_ID "arduinoRev2"
-#define DEVICE_CREDENTIAL "first_credential"
+#define USERNAME "thinger_username"
+#define DEVICE_ID "thinger_device_id"
+#define DEVICE_CREDENTIAL "thinger_device_credential"
 
-#define SSID "Hamdan"
-#define SSID_PASSWORD "hm3357553"
+#define SSID "ssid"
+#define SSID_PASSWORD "ssid_password"
 
 ThingerWiFiNINA thing(USERNAME, DEVICE_ID, DEVICE_CREDENTIAL);
 
