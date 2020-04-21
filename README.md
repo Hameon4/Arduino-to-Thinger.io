@@ -1,6 +1,7 @@
 # Arduino-to-Thinger.io
-Connecting the Arduino Uno Wifi to the Thinger.io interface
+Connecting the Arduino Uno Wifi Rev2 to the Thinger.io interface
 
+To do that: 
 1) Create an account in Thinger.io
 2) Go to devices, and add a new device.
 3) There enter all fields necessary. 
